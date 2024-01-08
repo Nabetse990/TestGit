@@ -15,3 +15,15 @@ Human human = new Human
     HeightCms = 178,
     WeightKgs = 105
 };
+
+Hero hero = new Hero()
+{
+    Year = 1990,
+    Month = 03,
+    Day = 1,
+    Name = "Arthur",
+    HeightCms = 180,
+    WeightKgs = 90,
+    Weapon = "Fire Sword",
+    Shield = "Iron Shield"
+};
