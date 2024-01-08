@@ -15,3 +15,15 @@ Human human = new Human
     HeightCms = 178,
     WeightKgs = 105
 };
+
+Enemy enemy = new Enemy()
+{
+    Year = 1990,
+    Month = 1,
+    Day = 1,
+    Name = "Mortadela",
+    HeightCms = 210,
+    WeightKgs = 120,
+    Weapon = "9mm",
+    Armor = "Kevlar"
+};
