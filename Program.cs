@@ -41,3 +41,5 @@ Enemy enemy = new Enemy()
     Armor = "Kevlar"
 
 };
+
+Console.WriteLine("La primera ronda la gano el enemigo... hijos de pesha...");
