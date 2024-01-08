@@ -1,4 +1,4 @@
-﻿using TestGit;
+using TestGit;
 
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
@@ -16,6 +16,19 @@ Human human = new Human
     WeightKgs = 105
 };
 
+
+Hero hero = new Hero()
+{
+    Year = 1990,
+    Month = 03,
+    Day = 1,
+    Name = "Arthur",
+    HeightCms = 180,
+    WeightKgs = 90,
+    Weapon = "Fire Sword",
+    Shield = "Iron Shield"
+};
+
 Enemy enemy = new Enemy()
 {
     Year = 1990,
@@ -26,4 +39,5 @@ Enemy enemy = new Enemy()
     WeightKgs = 120,
     Weapon = "9mm",
     Armor = "Kevlar"
+
 };
