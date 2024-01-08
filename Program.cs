@@ -47,3 +47,4 @@ Console.WriteLine("La primera ronda la gano el enemigo... hijos de pesha...");
 
 Console.WriteLine("Buenos dias, esta partida la gano el bueno, vamos capos!");
 
+Console.WriteLine("Bueno, gano el malo, malisimo el malvado!");
