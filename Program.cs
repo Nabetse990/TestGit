@@ -41,3 +41,5 @@ Enemy enemy = new Enemy()
     Armor = "Kevlar"
 
 };
+
+Console.WriteLine("Buenos dias, esta partida la gano el bueno, vamos capos!");
